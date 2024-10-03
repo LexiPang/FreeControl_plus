@@ -1,0 +1,30 @@
+checkpoints:
+  '1.5':
+    naive:
+      path: runwayml/stable-diffusion-v1-5
+      pca_basis:
+        athlete_step_200_sample_20_id_0: dataset/basis/1.5/naive/athlete/step_200_sample_20_id_0/pca_info.pt
+        bear_step_200_sample_20_id_0: dataset/basis/1.5/naive/bear/step_200_sample_20_id_0/pca_info.pt
+        building_step_200_sample_20_id_0: dataset/basis/1.5/naive/building/step_200_sample_20_id_0/pca_info.pt
+        castle_step_200_sample_20_id_0: dataset/basis/1.5/naive/castle/step_200_sample_20_id_0/pca_info.pt
+        cat_step_200_sample_20_id_0: dataset/basis/1.5/naive/cat/step_200_sample_20_id_0/pca_info.pt
+        cat_step_200_sample_20_id_1: dataset/basis/1.5/naive/cat/step_200_sample_20_id_1/pca_info.pt
+        couple_step_200_sample_20_id_0: dataset/basis/1.5/naive/couple/step_200_sample_20_id_0/pca_info.pt
+        goldfish_step_200_sample_20_id_0: dataset/basis/1.5/naive/goldfish/step_200_sample_20_id_0/pca_info.pt
+        goldfish_step_200_sample_20_id_1: dataset/basis/1.5/naive/goldfish/step_200_sample_20_id_1/pca_info.pt
+        hummingbird_step_200_sample_20_id_0: dataset/basis/1.5/naive/hummingbird/step_200_sample_20_id_0/pca_info.pt
+        husky_step_200_sample_20_id_0: dataset/basis/1.5/naive/husky/step_200_sample_20_id_0/pca_info.pt
+        jeep_step_200_sample_20_id_0: dataset/basis/1.5/naive/jeep/step_200_sample_20_id_0/pca_info.pt
+        lion_step_200_sample_20_id_0: dataset/basis/1.5/naive/lion/step_200_sample_20_id_0/pca_info.pt
+        man_step_200_sample_20_id_0: dataset/basis/1.5/naive/man/step_200_sample_20_id_0/pca_info.pt
+        panda_step_200_sample_20_id_0: dataset/basis/1.5/naive/panda/step_200_sample_20_id_0/pca_info.pt
+        penguin_step_200_sample_20_id_0: dataset/basis/1.5/naive/penguin/step_200_sample_20_id_0/pca_info.pt
+        people_step_200_sample_20_id_0: dataset/basis/1.5/naive/people/step_200_sample_20_id_0/pca_info.pt
+        pizza_step_200_sample_20_id_0: dataset/basis/1.5/naive/pizza/step_200_sample_20_id_0/pca_info.pt
+        violin_step_200_sample_20_id_0: dataset/basis/1.5/naive/violin/step_200_sample_20_id_0/pca_info.pt
+        woman_step_200_sample_20_id_0: dataset/basis/1.5/naive/woman/step_200_sample_20_id_0/pca_info.pt
+  2.1_base:
+    naive:
+      path: stabilityai/stable-diffusion-2-1
+      pca_basis:
+        cup_step_200_sample_20_id_0: dataset/basis/2.1_base/naive/cup/step_200_sample_20_id_0/pca_info.pt

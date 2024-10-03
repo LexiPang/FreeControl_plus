@@ -1,0 +1,1 @@
+python -m clip_score benchmarks/clip_imgs benchmarks/clip_txts
